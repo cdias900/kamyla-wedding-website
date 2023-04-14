@@ -2,7 +2,7 @@
 
 This is the website that I created for a friend of my wife, it's heavily inspired by my wedding's website, which you can find the source code [here](https://github.com/cdias900/my-wedding-website). In it you can find all the information related to her story with her fianceé, some pictures of them and the gift lists.
 
-# Build Status [![Netlify Status](https://api.netlify.com/api/v1/badges/b496e3aa-8ca0-41ba-a41a-34be5da945f5/deploy-status)](https://app.netlify.com/sites/kamylaeantonio/deploys)
+# Build Status [![Netlify Status](https://api.netlify.com/api/v1/badges/b2253f62-329f-4837-8e74-ba6044656964/deploy-status)](https://app.netlify.com/sites/kamylaeantonio/deploys)
 
 # Technologies
 
