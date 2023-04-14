@@ -1,0 +1,53 @@
+{
+  "short_name": "Kamyla e Antônio",
+  "name": "Casamento Kamyla e Antônio",
+  "description": "Site do Casamento da Kamyla e Antônio",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "shortcuts" : [
+    {
+      "name": "Início",
+      "url": "/"
+    },
+    {
+      "name": "Sobre nós",
+      "url": "/about-us",
+      "description": "Acesse nossas informações"
+    },
+    {
+      "name": "Cerimônia",
+      "url": "/ceremony",
+      "description": "Acesse os dados de nossa cerimônia"
+    },
+    {
+      "name": "Galeria",
+      "url": "/gallery",
+      "description": "Acesse nossa galeria de fotos"
+    },
+    {
+      "name": "Presentes",
+      "url": "/gift-list",
+      "description": "Acesse nossas listas de presentes"
+
+    }
+  ]
+}
