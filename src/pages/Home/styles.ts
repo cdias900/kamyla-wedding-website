@@ -12,7 +12,7 @@ export const Container = styled.div`
 
 export const CoverImageContainer = styled.div`
   background-image: url(${coverImg});
-  background-position: center;
+  background-position: 46% center;
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
