@@ -82,12 +82,12 @@ const photos = [
     height: 6,
   },
   {
-    src: Gallery25,
-    width: 4,
-    height: 6,
+    src: Gallery26,
+    width: 6,
+    height: 4,
   },
   {
-    src: Gallery26,
+    src: Gallery25,
     width: 4,
     height: 6,
   },
