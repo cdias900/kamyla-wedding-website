@@ -12,7 +12,7 @@ import SetImage from 'assets/images/gift-list/set.png';
 export const giftLists = [
   {
     title: 'Camicado',
-    url: 'https://camicado.com.br/lista/convidado/kamylaeantoniocha',
+    url: 'https://camicado.com.br/lista/convidado/kamylaeantonio',
     logo: CamicadoLogo,
   },
 ];
