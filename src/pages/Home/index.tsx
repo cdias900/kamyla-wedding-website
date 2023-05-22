@@ -100,13 +100,6 @@ const Home = () => {
         <ImageBackdrop>
           <ImageUpperLabel>{t('title.wedding')}</ImageUpperLabel>
           <ImageLabel>Kamyla & Antônio</ImageLabel>
-          <Button
-            label={t('text.confirmPresence')}
-            onClick={() => {
-              trackEvent('confirm_presence_button_clicked');
-              confirmPresenceRef.current?.show();
-            }}
-          />
         </ImageBackdrop>
       </CoverImageContainer>
       <CountdownSection />
