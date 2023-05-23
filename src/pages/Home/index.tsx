@@ -12,7 +12,6 @@ import { useTranslation } from 'react-i18next';
 
 import {
   AboutUsSection,
-  Button,
   CeremonySection,
   ConfirmPresenceModal,
   ConfirmPresenceRef,
